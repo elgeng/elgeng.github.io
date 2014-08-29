@@ -1,0 +1,1 @@
+C:\Python27\PelicanEnv\Scripts\activate
